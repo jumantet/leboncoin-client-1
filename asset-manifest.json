@@ -1,14 +1,18 @@
 {
-  "main.css": "/leboncoin/static/css/main.3445a609.chunk.css",
-  "main.js": "/leboncoin/static/js/main.10a57d48.chunk.js",
-  "main.js.map": "/leboncoin/static/js/main.10a57d48.chunk.js.map",
+  "main.css": "/leboncoin/static/css/main.5c58df71.chunk.css",
+  "main.js": "/leboncoin/static/js/main.a245a302.chunk.js",
+  "main.js.map": "/leboncoin/static/js/main.a245a302.chunk.js.map",
   "runtime~main.js": "/leboncoin/static/js/runtime~main.dd526f9f.js",
   "runtime~main.js.map": "/leboncoin/static/js/runtime~main.dd526f9f.js.map",
-  "static/js/2.14112101.chunk.js": "/leboncoin/static/js/2.14112101.chunk.js",
-  "static/js/2.14112101.chunk.js.map": "/leboncoin/static/js/2.14112101.chunk.js.map",
+  "static/js/2.977fd671.chunk.js": "/leboncoin/static/js/2.977fd671.chunk.js",
+  "static/js/2.977fd671.chunk.js.map": "/leboncoin/static/js/2.977fd671.chunk.js.map",
   "index.html": "/leboncoin/index.html",
-  "precache-manifest.a7ec478fd317cb1aca111ed62e4f68b5.js": "/leboncoin/precache-manifest.a7ec478fd317cb1aca111ed62e4f68b5.js",
+  "precache-manifest.354a1d84e02e031bbd572a71301574ca.js": "/leboncoin/precache-manifest.354a1d84e02e031bbd572a71301574ca.js",
   "service-worker.js": "/leboncoin/service-worker.js",
-  "static/css/main.3445a609.chunk.css.map": "/leboncoin/static/css/main.3445a609.chunk.css.map",
-  "static/media/loading.svg": "/leboncoin/static/media/loading.14ca3612.svg"
+  "static/css/main.5c58df71.chunk.css.map": "/leboncoin/static/css/main.5c58df71.chunk.css.map",
+  "static/media/bell.13fb8d48.svg": "/leboncoin/static/media/bell.13fb8d48.svg",
+  "static/media/clock.b4189ca0.svg": "/leboncoin/static/media/clock.b4189ca0.svg",
+  "static/media/eye.63f6b158.svg": "/leboncoin/static/media/eye.63f6b158.svg",
+  "static/media/loading.svg": "/leboncoin/static/media/loading.14ca3612.svg",
+  "static/media/logo.8a5ec726.svg": "/leboncoin/static/media/logo.8a5ec726.svg"
 }
