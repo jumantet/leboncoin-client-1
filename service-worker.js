@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/leboncoin-client/precache-manifest.c590b4c0efd29aef4a128051defd237a.js"
+  "/leboncoin-client/precache-manifest.56d2924b97842893669bc809b4ee4ef2.js"
 );
 
 workbox.clientsClaim();
