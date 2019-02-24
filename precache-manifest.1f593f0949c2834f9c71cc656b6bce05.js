@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/leboncoin-client/static/media/logo.8a5ec726.svg"
   },
   {
-    "revision": "24c1d8867347a01f8599",
+    "revision": "45e73dc24b73001650dc",
     "url": "/leboncoin-client/static/css/main.b20269a0.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/leboncoin-client/static/media/loading.14ca3612.svg"
   },
   {
-    "revision": "24c1d8867347a01f8599",
-    "url": "/leboncoin-client/static/js/main.24c1d886.chunk.js"
+    "revision": "45e73dc24b73001650dc",
+    "url": "/leboncoin-client/static/js/main.45e73dc2.chunk.js"
   },
   {
     "revision": "b4189ca0fbdb2df43eaede406ef78539",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/leboncoin-client/static/css/2.a1cbf32d.chunk.css"
   },
   {
-    "revision": "a615e64435b39ae914a844b716df47f1",
+    "revision": "f6d85a9d946d6a4c845758dd836ea705",
     "url": "/leboncoin-client/index.html"
   }
 ];
