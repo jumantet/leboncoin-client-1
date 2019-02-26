@@ -1,21 +1,20 @@
 {
-  "main.css": "/leboncoin-client/static/css/main.809462d8.chunk.css",
-  "main.js": "/leboncoin-client/static/js/main.033426fd.chunk.js",
-  "main.js.map": "/leboncoin-client/static/js/main.033426fd.chunk.js.map",
+  "main.css": "/leboncoin-client/static/css/main.3ffea792.chunk.css",
+  "main.js": "/leboncoin-client/static/js/main.b891b54e.chunk.js",
+  "main.js.map": "/leboncoin-client/static/js/main.b891b54e.chunk.js.map",
   "runtime~main.js": "/leboncoin-client/static/js/runtime~main.68bfb27d.js",
   "runtime~main.js.map": "/leboncoin-client/static/js/runtime~main.68bfb27d.js.map",
   "static/css/2.08ca6fb7.chunk.css": "/leboncoin-client/static/css/2.08ca6fb7.chunk.css",
   "static/js/2.c33e7a78.chunk.js": "/leboncoin-client/static/js/2.c33e7a78.chunk.js",
   "static/js/2.c33e7a78.chunk.js.map": "/leboncoin-client/static/js/2.c33e7a78.chunk.js.map",
   "index.html": "/leboncoin-client/index.html",
-  "precache-manifest.60356715312722e5022c7619ef63aa73.js": "/leboncoin-client/precache-manifest.60356715312722e5022c7619ef63aa73.js",
+  "precache-manifest.9f4241dd02e19c2b85918130b744e182.js": "/leboncoin-client/precache-manifest.9f4241dd02e19c2b85918130b744e182.js",
   "service-worker.js": "/leboncoin-client/service-worker.js",
   "static/css/2.08ca6fb7.chunk.css.map": "/leboncoin-client/static/css/2.08ca6fb7.chunk.css.map",
-  "static/css/main.809462d8.chunk.css.map": "/leboncoin-client/static/css/main.809462d8.chunk.css.map",
+  "static/css/main.3ffea792.chunk.css.map": "/leboncoin-client/static/css/main.3ffea792.chunk.css.map",
   "static/media/bell.13fb8d48.svg": "/leboncoin-client/static/media/bell.13fb8d48.svg",
   "static/media/clock.b4189ca0.svg": "/leboncoin-client/static/media/clock.b4189ca0.svg",
   "static/media/eye.63f6b158.svg": "/leboncoin-client/static/media/eye.63f6b158.svg",
   "static/media/loading.svg": "/leboncoin-client/static/media/loading.14ca3612.svg",
-  "static/media/logo.8a5ec726.svg": "/leboncoin-client/static/media/logo.8a5ec726.svg",
-  "static/media/photo-camera.506975e6.svg": "/leboncoin-client/static/media/photo-camera.506975e6.svg"
+  "static/media/logo.8a5ec726.svg": "/leboncoin-client/static/media/logo.8a5ec726.svg"
 }
